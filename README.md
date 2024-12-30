@@ -1,16 +1,8 @@
 # news_app
 
-A new Flutter project.
+A new Flutter project View Sports, Science and Business news in three categories.
 
-## Getting Started
+## Video Tutorial To help you use the program : 
 
-This project is a starting point for a Flutter application.
+https://github.com/user-attachments/assets/cefcb5af-bba3-4820-8932-251166e34c00
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
